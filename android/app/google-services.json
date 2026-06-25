@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16635881131",
+    "project_id": "shopit-c260e",
+    "storage_bucket": "shopit-c260e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16635881131:android:dea5b5bbc5b816891cb9ee",
+        "android_client_info": {
+          "package_name": "com.example.shopit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-09zZeBg-uAEWq4UUZrNUcYubZf7Genw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
